@@ -1,0 +1,8 @@
+C:\Users\phamm\source\repos\CSharpUni\CSharpUni\bin\Debug\CSharpUni.exe.config
+C:\Users\phamm\source\repos\CSharpUni\CSharpUni\bin\Debug\CSharpUni.exe
+C:\Users\phamm\source\repos\CSharpUni\CSharpUni\bin\Debug\CSharpUni.pdb
+C:\Users\phamm\source\repos\CSharpUni\CSharpUni\obj\Debug\CSharpUni.csproj.AssemblyReference.cache
+C:\Users\phamm\source\repos\CSharpUni\CSharpUni\obj\Debug\CSharpUni.csproj.SuggestedBindingRedirects.cache
+C:\Users\phamm\source\repos\CSharpUni\CSharpUni\obj\Debug\CSharpUni.csproj.CoreCompileInputs.cache
+C:\Users\phamm\source\repos\CSharpUni\CSharpUni\obj\Debug\CSharpUni.exe
+C:\Users\phamm\source\repos\CSharpUni\CSharpUni\obj\Debug\CSharpUni.pdb
